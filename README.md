@@ -62,3 +62,7 @@ Follow these steps to run the project locally:
 
 ## Screenshots
 
+
+<p align="center">
+    <img src=""E:\Anshu HDD\Screenshots\Screenshot 2025-01-09 234850.png"" width="800" />
+
