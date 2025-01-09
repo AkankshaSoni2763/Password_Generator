@@ -64,5 +64,5 @@ Follow these steps to run the project locally:
 
 
 <p align="center">
-    <img src=""E:\Anshu HDD\Screenshots\Screenshot 2025-01-09 234850.png"" width="800" />
+    <img src="https://drive.google.com/file/d/1r9lEW-GYS8tc9P3uy_FXzPkLx5wmJQsA/view?usp=sharing" width="800" />
 
