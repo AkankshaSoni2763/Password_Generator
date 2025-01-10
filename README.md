@@ -60,9 +60,4 @@ Follow these steps to run the project locally:
 
 
 
-## Screenshots
-
-
-<p align="center">
-    <img src="https://drive.google.com/file/d/1r9lEW-GYS8tc9P3uy_FXzPkLx5wmJQsA/view?usp=sharing" width="800" />
 
